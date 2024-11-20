@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1320px;
+    margin: auto;
+    padding: 5px;
+    
+}
+.d-flex{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: center;
+}
+.d{
+    display: flex;
+    flex-wrap: wrap;
+}   
+.mt-50{
+    margin-top: 50px;
+}
+.mb-100{
+    margin-bottom: 100px;
+}
+.p-10{
+    padding: 10px;
+}
+
+.box{
+  width: 100%;
+  background-color: rgba(33, 143, 137, 0.473);
+  border-radius: 10px;
+}
+
+.h-50{
+    height: 50px;
+}
+
+.container-fluid{
+    width: 100%;
+   
+}
+.h-500{
+  height: 500px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+
+.h-300{
+    height: 300px;
+   
+}
+.h-400{
+    height: 400px;
+}
+.pt-80{
+    padding-top: 80px;
+}
+.h-150{
+    height: 150px;
+}
+.h-250{
+    height: 250px;
+}
